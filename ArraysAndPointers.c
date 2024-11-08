@@ -25,6 +25,9 @@ int main() {
    // {
    //     printf("%i\n", rowMatrix[i] );
    // }
+
+   int x = 10;
+   int *ptr = &x;
     
     return 0;
 }
