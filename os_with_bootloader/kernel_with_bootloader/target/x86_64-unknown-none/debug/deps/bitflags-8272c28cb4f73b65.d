@@ -1,0 +1,11 @@
+/home/tosin/CSC308/kernel_with_bootloader/target/x86_64-unknown-none/debug/deps/libbitflags-8272c28cb4f73b65.rmeta: /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/lib.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/iter.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/parser.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/traits.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/public.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/internal.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/external.rs
+
+/home/tosin/CSC308/kernel_with_bootloader/target/x86_64-unknown-none/debug/deps/bitflags-8272c28cb4f73b65.d: /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/lib.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/iter.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/parser.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/traits.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/public.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/internal.rs /home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/external.rs
+
+/home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/lib.rs:
+/home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/iter.rs:
+/home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/parser.rs:
+/home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/traits.rs:
+/home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/public.rs:
+/home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/internal.rs:
+/home/tosin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.8.0/src/external.rs:
